@@ -6,11 +6,11 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust" />
   </a>
-</p>
+</p> -->
 
 <!-- <div align="center">
   <a href="https://www.linkedin.com/in/giovani-coelho-7a1269238/" target="_blank">
